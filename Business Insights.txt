@@ -1,0 +1,11 @@
+1. Technology is the highest-performing category, generating approximately $836K in sales and $145K in profit.
+
+2. The West region leads in both sales (~$725K) and profit (~$108K), making it the strongest-performing region.
+
+3. Sales increased significantly after 2015, with 2017 recording the highest annual revenue.
+
+4. Sales increase noticeably towards the end of the year, especially in November and December.
+
+5. Office Supplies has the highest number of orders, but Technology generates the highest sales.
+
+6. Furniture contributes good sales but much lower profit than the other categories.
